@@ -1,11 +1,11 @@
 ## Hey, I'm Matt! =) I work as a Full-Stack Developer at @InovaNex
 
-<div align="center">
+<div style="display: inline">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattnex&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmatt7&layout=compact&langs_count=16&theme=light"/>
 </div>
 
-<div style="display: inline-block"><br>
+<div style="display: inline_block"><br>
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
